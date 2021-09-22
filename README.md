@@ -2,4 +2,6 @@
 
 ## Intro
 
-This is a tutorial on how to use GitHUb
+This is a tutorial on how to use GitHub
+
+modify
